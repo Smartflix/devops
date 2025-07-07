@@ -1,1 +1,1 @@
-<h1> OLA AND TITI PROJECT ON ANSIBLE IS RUNNING SMOOTHLY <h1>		
+<h1> DevOps 1 class just started <h1>		
