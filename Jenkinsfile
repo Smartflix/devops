@@ -8,7 +8,7 @@ pipeline{
            stage('Checkout'){
               steps{
 		 echo 'cloning..'
-                 git 'https://github.com/RayItern/JUNECLASSPRO1.git'
+                 git 'https://github.com/Smartflix/devops.git'
               }
           }
           stage('Compile with maven'){
