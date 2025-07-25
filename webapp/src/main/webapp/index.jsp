@@ -1,1 +1,1 @@
-<h1> DevOps 1 class just started d we have done Jenkins and build a pipeline. this is an automated system of ensuring that codes are picked from the vcs and updated into the jenkins server to build the artifact< h1>		
+<h1> DevOps 1 class just started d we have done Jenkins and build a pipeline.updated into the jenkins server to build the artifact< h1>		
